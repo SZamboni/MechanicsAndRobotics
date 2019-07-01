@@ -1,11 +1,11 @@
 # MechanicsAndRobotics
 Summary of the courses of mechanics and robotics that I had during the academic year 2018/2019
 
-# Industrial Robotics
+## Industrial Robotics
 During this course we learned about rotation matrices and how so solve kinematics (inverse and direct) and inverse dynamics using the Lagrange approach of robotic arms.
 The couse was taught by professor Bortoluzzi at the University of Trento.
 
-# Modeling and Simulation of Mechatronical Systems
+## Modeling and Simulation of Mechatronical Systems
 This course was a sumary of all the classical dynamics applied to multiple bodies.
 The couse was taught by professor Biral at the University of Trento.
 The main content of the courses where:
