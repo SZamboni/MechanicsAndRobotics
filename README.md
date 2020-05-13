@@ -1,5 +1,5 @@
 # MechanicsAndRobotics
-Summary of the courses of mechanics and robotics that I had during the academic year 2018/2019
+Summary of the courses "Industrial Robotics" and "Modeling and simulation of mechatronical systems" that I had during the academic year 2018/2019 at the University of Trento
 
 ## Industrial Robotics
 During this course we learned about rotation matrices and how so solve kinematics (inverse and direct) and inverse dynamics using the Lagrange approach of robotic arms.
